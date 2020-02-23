@@ -2,8 +2,8 @@
 # Site
 
 title: Recipes of a psychopath
-url: "https://ddimitris.github.io/recipes-of-a-psychopath/"
-baseurl: "https://ddimitris.github.io/recipes-of-a-psychopath/"
+url: "/recipes-of-a-psychopath"
+baseurl: "/recipes-of-a-psychopath"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
