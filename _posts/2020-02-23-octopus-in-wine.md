@@ -17,7 +17,7 @@ recipe:
     * 100 gr tomato puree
     * salt and pepper as desired
   directions_markdown: |-
-    1. Into a kettle of speed, place the hole octopus and fill with water until the octopus is covered.
+    1. Into a kettle of speed, place the octopus and fill with water until the octopus is covered.
     2. Bake the octopus until the valve rises. Afterwards, turn down to low heat and let it boil for about 25'.
     3. Let the octopus cool down and then cut it into small pieces.
     4. Chop the onion and stir fried it.
