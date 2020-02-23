@@ -14,8 +14,11 @@ recipe:
     * 1 Broccoli
     * 200 gr yogurt 0% fat
     * 20 gr mustard
-    * 50 gr shredded yellow cheese such as swiss cheese, gouda etc.
     * salt, pepper and sweet paprika as desired
+
+    **For the topping**    
+
+    * 50 gr shredded yellow cheese such as swiss cheese, gouda etc.
   directions_markdown: |-
     1. Boil the broccoli until is softened.
     2. Pre-heat the oven at 200°C.
