@@ -26,7 +26,7 @@ recipe:
     4. Pure the broccoli into the bowl and mix all the ingredients together.
     5. Place the mix into an ovenproof pot and cover it with the shredded cheese.
     6. Place the pot into the oven and bake it for 20' - 25'.
-  tips_markdown:
+  tips_markdown: |-
     \"Serve it hot. You may combine it with some pasta or chicken breast (or both). Enjoy! :) \" 
 ---
 Raw broccoli contains almost 90% water, 7% carbs, 3% protein, and almost no fat.
