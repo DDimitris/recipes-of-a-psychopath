@@ -2,7 +2,9 @@
 date: 2019-10-24
 title: Cloudbreads
 categories:
-  - Sweets
+  - Breakfast
+  - Lunch
+  - Dinner
 featured_image: /recipes-of-a-psychopath/images/recipes/cloudbreads-1.jpg
 recipe:
   servings: 3 servings
@@ -13,8 +15,8 @@ recipe:
     * 3 tablespoons cream cheese, softened, or yogurt
 
   directions_markdown: |-
-  
-    1. Preheat the oven at 150°C Fan.  
+
+    1. Preheat the oven at 150°C Fan.
     2. Separate the eggs into two bowls.
     3. Whip egg whites into stiff peaks.
     4. Add the cream cheese or yogurt into the yolks and mix until combined.
@@ -25,7 +27,7 @@ recipe:
     9. Allow to cool for at least 1 hour.
 
   tips_markdown:
-    \"When the cloudbreads are done, you can cut them in half inorder to create a tasty sandwich. Also, for the cream cheese you may select the cottage cheese thus reducing the overall caloric intake ;) \" 
+    \"When the cloudbreads are done, you can cut them in half inorder to create a tasty sandwich. Also, for the cream cheese you may select the cottage cheese thus reducing the overall caloric intake ;) \"
 ---
 Based on the [karlijnskitchen.com][1], cloudbreads are Airy bread-like bakes made with egg and cream cheese.
 
