@@ -11,7 +11,7 @@ disqus_shortname: https-ddimitris-github-io-recipes-of-a-psychopath
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: This blog contains all the recipes created with an obsession of making them uber light.
-author: 
+author:
   name: Dimitris Dedousis
   email:
   twitter: # twitter username without the @ symbol
