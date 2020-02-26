@@ -1,0 +1,25 @@
+
+@media(min-width: 320px) {
+  .post-heading {
+    font-size: 18px;
+  }
+}
+
+@media(min-width: 1200px) {
+  .post-heading {
+     font-size: 35px;
+  }
+}
+
+.posts-tile-container {
+  .post-row {
+    margin-bottom: 2.2em;
+    display: block;
+  }
+
+ .post-tile {
+    text-align: center;
+    display: inline-block;
+    width: 49%;
+  }
+}
