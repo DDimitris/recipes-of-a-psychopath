@@ -5,7 +5,7 @@ categories:
   - Lunch
   - Appetizers
   - High Protein
-featured_image: /recipes-of-a-psychopath/images/recipes/octopus-in-wine.jpg
+featured_image: https://res.cloudinary.com/recipeimages/image/upload/v1582806292/recipe-images/octopus-in-wine_upttqk.jpg
 recipe:
   servings: 1 - 4 Servings
   prep: 5 minutes
