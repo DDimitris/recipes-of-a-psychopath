@@ -5,7 +5,7 @@ categories:
   - Sweets
   - Breakfast
   - Snack
-featured_image: /recipes-of-a-psychopath/images/recipes/pancakes-1.jpg
+featured_image: https://res.cloudinary.com/recipeimages/image/upload/v1582806294/recipe-images/pancakes-1_hocnke.jpg
 recipe:
   servings: 8 small pancakes
   prep: 5 - 10 minutes
@@ -35,6 +35,6 @@ Thats easy to make and great to eat!
 
 It is sooooo tasty!!
 
-![Pancakes](/recipes-of-a-psychopath/images/recipes/pancakes-2.jpg)
+![Pancakes](https://res.cloudinary.com/recipeimages/image/upload/v1582806297/recipe-images/pancakes-2_yzokv1.jpg)
 
 I like crumbled biscuit and honey on top of it. It is awesome!
