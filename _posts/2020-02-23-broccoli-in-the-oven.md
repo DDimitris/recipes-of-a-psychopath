@@ -5,7 +5,7 @@ categories:
   - Lunch
   - Appetizers
   - High Protein
-featured_image: /recipes-of-a-psychopath/images/recipes/broccoli-in-the-oven-2.jpg
+featured_image: https://res.cloudinary.com/recipeimages/image/upload/v1582806278/recipe-images/broccoli-in-the-oven-2_gzftef.jpg
 recipe:
   servings: 1 - 4 Servings
   prep: 10 - 15 minutes
@@ -33,7 +33,7 @@ Raw broccoli contains almost 90% water, 7% carbs, 3% protein, and almost no fat.
 
 Broccoli is very low in calories, providing only 31 calories per cup (91 grams).
 
-![Broccoli-in-the-oven](/recipes-of-a-psychopath/images/recipes/broccoli-in-the-oven-1.jpg)
+![Broccoli-in-the-oven](https://res.cloudinary.com/recipeimages/image/upload/v1582806276/recipe-images/broccoli-in-the-oven-1_u9wex5.jpg)
 
 As you can see, broccoli is safe for those who take care of their weight.
 
