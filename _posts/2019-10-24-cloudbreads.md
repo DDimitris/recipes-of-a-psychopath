@@ -5,7 +5,7 @@ categories:
   - Breakfast
   - Lunch
   - Dinner
-featured_image: /recipes-of-a-psychopath/images/recipes/cloudbreads-1.jpg
+featured_image: https://res.cloudinary.com/recipeimages/image/upload/v1582806282/recipe-images/cloudbreads-1_ojolnh.jpg
 recipe:
   servings: 3 servings
   prep: 15 minutes
@@ -33,7 +33,7 @@ Based on the [karlijnskitchen.com][1], cloudbreads are Airy bread-like bakes mad
 
 Therefore, they hardly contain any carbs, are high in protein and have very little calories.
 
-![Cloudbreads](/recipes-of-a-psychopath/images/recipes/cloudbreads-3.jpg)
+![Cloudbreads](https://res.cloudinary.com/recipeimages/image/upload/v1582806298/recipe-images/cloudbreads-3_wu2xd3.jpg)
 
 It is something different you can try ;)
 
