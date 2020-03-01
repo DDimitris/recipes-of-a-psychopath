@@ -1,13 +1,11 @@
 ---
-date: 2019-11-09
-title: Bougatsa
+date: 2020-02-29
+title: Galaktompoureko
 categories:
   - Sweets
-  - Breakfast
-  - Snack
-featured_image: https://res.cloudinary.com/recipeimages/image/upload/v1582806277/recipe-images/bougatsa-1_vdekui.jpg
+featured_image: https://res.cloudinary.com/recipeimages/image/upload/v1583054745/recipe-images/galaktompoureko-1_dnpmwd.jpg
 recipe:
-  servings: 10 - 12 servings
+  servings: 6 big servings
   prep: 30 minutes
   cook: 1.5 hour
   ingredients_markdown: |-
@@ -18,20 +16,23 @@ recipe:
     * 2 vanillins
     * Zest, of 1 lemon
     * A pinch of salt
-    * 30 gr butter, cold
-    * 6 sheets of phyllo dough
+    * 6 phyllo dough
 
-    **For the serving**
+    **For the syrup**
 
-    * Icing sugar as desired
-    * Cinnamon powder as desired
+    * 3 cups of water
+    * 1 cinnamon stick
+    * 1.5 cups of granulated stevia
+    * 2tbsp honey
+    * 1tsp gelatin powder
+    * 2 vanillins
   directions_markdown: |-
 
     **For the custard filling**
 
     1. In a pot, add the milk and stevia, and transfer over medium heat until the milk comes to a boil.
     2. Add the semolina and stir with a hand whisk, until the cream thickens.
-    3. Remove from the heat and add the vanilla extract, lemon zest, cold butter, and mix until the butter melts.
+    3. Remove from the heat and add the vanilla extract, lemon zest, and mix.
     4. Add the yolks, salt, and mix.
     5. Transfer the custard into a bowl, cover with plastic wrap, and place it into the refrigerator to cool for ~30'. Make sure that the plastic wrap touches the surface of the custard, so it does not make a crust while cooling.
 
@@ -48,17 +49,21 @@ recipe:
     14. Score the top of the pie into 10-12 pieces and then cut into them.
     15. Bake for 1.5 hours or until golden brown and crunchy.
 
+    **For the syrup**
+
+    16. Pure the gelatin powder into some cold water (About 3 - 4tbsp of water is enough).
+    17. Into a pot, boil the water, the cinnamon stick and the vanillins for 3'.
+    18. Remove from the heat, add the stevia, the honey and whisk firmly.
+    19. Remove the cinnamon stick and pure in the gelatin powder.
+    20. Let it cool down until the galaktompoureko is cooked.
+    21. When you remove the galaktompoureko from the oven, pure the syrup above immediately and let it cool down before you serve.
   tips_markdown:
     \"If you want to make this recipe uber light, you can substitute the butter for drizzling with some water. Also, you can use any type of butter you want.\"
 ---
-Based on a minor reaserch, the meaning of the word Bougatsa is:  salty or sweet pie filling, wrapped very well and tightly in the dough.
+If you love greek sweets then this recipe is a must try.
 
-I can't stop eating if available! :P
+I know it can be a tricky dish to make but in the end everyone will love it.
 
-![Bougatsa](https://res.cloudinary.com/recipeimages/image/upload/v1582806279/recipe-images/bougatsa-3_pwxafn.jpg)
+![Galaktompoureko](https://res.cloudinary.com/recipeimages/image/upload/v1583054748/recipe-images/galaktompoureko-2_w64afp.jpg)
 
-It is a simple recipe to execute and a tasteful treat for everyone.
-
-![Bougatsa](https://res.cloudinary.com/recipeimages/image/upload/v1582806279/recipe-images/bougatsa-2_dy7ktx.jpg)
-
-This is a "must to try" recipe!
+This sweet is one of my favorites. Thies recipe is so light that i can eat an entire galaktompoureko in one sitting.
